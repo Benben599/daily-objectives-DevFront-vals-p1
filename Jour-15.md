@@ -6,17 +6,17 @@
 
 - [ ] Est-ce que JS est un langage Orienté Objet ?
 - [ ] Comprendre ce qu'est l'abstraction.
-- [ ] Comprendre le principe d'instance.
-- [ ] Comprendre ce qu'est une classe.
-  - [ ] Quelles différences entre classes concrètes et abstraites ?
-  - [ ] Comprendre ce qu'est le constructeur (`constructor`)
-  - [ ] Attributs / Propriétés.
-  - [ ] Méthodes.
-    - [ ] Quelle différence avec les fonctions ?
+- [x] Comprendre le principe d'instance.
+- [x] Comprendre ce qu'est une classe.
+  - [] Quelles différences entre classes concrètes et abstraites ?
+  - [x] Comprendre ce qu'est le constructeur (`constructor`)
+  - [x] Attributs / Propriétés.
+  - [x] Méthodes.
+    - [x] Quelle différence avec les fonctions ?
     - [ ] Utilité ?
     - [ ] Getters / Setters.
-  - [ ] Comprendre ce qu'est le constructeur.
-- [ ] Comprendre ce qu'est un objet.
+  - [x] Comprendre ce qu'est le constructeur.
+- [x] Comprendre ce qu'est un objet.
 - [ ] Comprendre le principe d'encapsulation :
   - [ ] Qu'est ce que l'encapsulation ?
   - [ ] À quoi sert l'encapsulation ?
