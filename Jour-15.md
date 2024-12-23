@@ -4,16 +4,16 @@
 
 ### POO (Programmation Orientée Objet) :
 
-- [ ] Est-ce que JS est un langage Orienté Objet ?
-- [ ] Comprendre ce qu'est l'abstraction.
+- [x] Est-ce que JS est un langage Orienté Objet ?
+- [x] Comprendre ce qu'est l'abstraction.
 - [x] Comprendre le principe d'instance.
 - [x] Comprendre ce qu'est une classe.
-  - [] Quelles différences entre classes concrètes et abstraites ?
+  - [x] Quelles différences entre classes concrètes et abstraites ?
   - [x] Comprendre ce qu'est le constructeur (`constructor`)
   - [x] Attributs / Propriétés.
   - [x] Méthodes.
     - [x] Quelle différence avec les fonctions ?
-    - [ ] Utilité ?
+    - [x] Utilité ?
     - [ ] Getters / Setters.
   - [x] Comprendre ce qu'est le constructeur.
 - [x] Comprendre ce qu'est un objet.
